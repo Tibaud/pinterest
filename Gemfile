@@ -17,6 +17,7 @@ gem 'bootstrap-sass', '~> 3.3.7'
 gem 'simple_form', '~> 3.5'
 gem 'devise'
 gem "paperclip", "~> 5.2.1"
+gem 'masonry-rails'
 
 group :development, :test do
   gem 'sqlite3'
