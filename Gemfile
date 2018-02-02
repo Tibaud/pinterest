@@ -15,6 +15,7 @@ gem 'jbuilder'
 gem 'haml'
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'simple_form', '~> 3.5'
+gem 'devise'
 
 group :development, :test do
   gem 'sqlite3'
