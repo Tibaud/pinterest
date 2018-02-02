@@ -18,6 +18,7 @@ gem 'simple_form', '~> 3.5'
 gem 'devise'
 gem "paperclip", "~> 5.2.1"
 gem 'masonry-rails'
+gem 'acts_as_votable', '~> 0.11.1'
 
 group :development, :test do
   gem 'sqlite3'
